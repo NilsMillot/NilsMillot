@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=nilsmillot)]
+![Les Stats GitHub de Nils](https://github-readme-stats.vercel.app/api?username=nilsmillot&count_private=true&show_icons=true&theme=radical)
+
 <!--
 **NilsMillot/NilsMillot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
