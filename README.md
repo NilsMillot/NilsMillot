@@ -8,9 +8,15 @@
 </a>
 -->
 
-<div align="center">
+<h1 align="center">
+  <a href="https://github.com/Eliwena">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=;Hello+World!&center=true&size=27">
+  </a>
+</h1>
+
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div>  -->
   
 
 ### <div align="center">I'm Nils, a passionate full stack developer student from France 🧑‍💻</div>  
@@ -100,7 +106,20 @@
 
 <br/>  
 
+</a>
 
+<p align="center">
+  <a href="https://github.com/NilsMillot">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=nilsmillot&theme=radical&background=0d1117&border=666">
+  </a>
+  <br>
+  <!-- <a href="https://github.com/NilsMillot">
+    <img src="https://activity-graph.herokuapp.com/graph?username=nilsmillot&theme=react-dark&hide_border=true">
+  </a> -->
+  <a href="https://github.com/NilsMillot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsMillot&layout=compact&theme=radical" />
+  </a>
+</p>
 
 
 ## Connect with me  
@@ -117,8 +136,9 @@
 <br/>  
 
 
-
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=NilsMillot&&style=flat-square" align="center" />
 </div>
+
+
+<br/>
